@@ -1,0 +1,29 @@
+
+{
+    "usuarios_login": [
+        {
+            "usuario": "standard_user",
+            "password": "secret_sauce"
+        },
+        {
+            "usuario": "locked_out_user",
+            "password": "secret_sauce"
+        }
+    ],
+    "datos_compra": [
+        {
+            "usuario": "standard_user",
+            "password": "secret_sauce",
+            "nombre": "Matias",
+            "apellido": "Perez",
+            "codigo_postal": "1234"
+        },
+        {
+            "usuario": "standard_user",
+            "password": "secret_sauce",
+            "nombre": "Roberto",
+            "apellido": "Lopez",
+            "codigo_postal": "4567"
+        }
+    ]
+}
